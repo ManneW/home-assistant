@@ -7,8 +7,8 @@
         "title": "Samsung TV",
         "description": "Enter your Samsung TV information. If you never connected Home Assistant before you should see a popup on your TV asking for authentication.",
         "data": {
-            "host": "Host or IP address",
-            "name": "Name"
+          "host": "Host or IP address",
+          "name": "Name"
         }
       },
       "confirm": {
@@ -21,7 +21,7 @@
       "already_configured": "This Samsung TV is already configured.",
       "auth_missing": "Home Assistant is not authenticated to connect to this Samsung TV.",
       "not_found": "No supported Samsung TV devices found on the network.",
-      "not_supported": "This Samsung TV devices is currently not supported."
+      "not_supported": "This Samsung TV device is currently not supported."
     }
   }
 }
